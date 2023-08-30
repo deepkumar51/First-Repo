@@ -1,3 +1,3 @@
 # First-Repo
 My first Git
-authoe-this is me
+author-this is me
